@@ -1,10 +1,14 @@
 Hi! 👋 My name is Tyler and welcome to my page!
 
-A proven leader passionate about complicated problems and creating efficient solutions to them. 
+___
 
-Throughout my career, I’ve been a catalyst for hard work. I have a passion for being where the challenge is, and this aptitude has steered me into team leadership. I’ve had the pleasure of leading teams of all sizes in the aviation industry. Although I relish working with people, I’m a problem solver through and through, and that passion left me wanting more. 
+I'm a proven leader passionate about complicated problems and creating efficient solutions to them. 
 
 I’ve found a home in software engineering. Learning JavaScript, Python, React/Redux, HTML, and CSS elevated my curiosity and affection for logical thinking. As a full-stack developer, I get to hone my skills with data structures, algorithms, and new frameworks. My endless capacity for learning keeps me sharp and forever enjoying what I do.
+
+I love the outdoors and I try to spend as much time as I can on a mountain or a lake!
+
+___
 
 Here's what I code with: 
 
